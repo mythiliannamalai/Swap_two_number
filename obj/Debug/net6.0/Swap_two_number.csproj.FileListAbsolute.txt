@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\bin\Debug\net6.0\Swap_two_number.exe
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\bin\Debug\net6.0\Swap_two_number.deps.json
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\bin\Debug\net6.0\Swap_two_number.runtimeconfig.json
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\bin\Debug\net6.0\Swap_two_number.dll
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\bin\Debug\net6.0\Swap_two_number.pdb
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\obj\Debug\net6.0\Swap_two_number.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\obj\Debug\net6.0\Swap_two_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\obj\Debug\net6.0\Swap_two_number.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\obj\Debug\net6.0\Swap_two_number.AssemblyInfo.cs
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\obj\Debug\net6.0\Swap_two_number.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\obj\Debug\net6.0\Swap_two_number.dll
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\obj\Debug\net6.0\refint\Swap_two_number.dll
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\obj\Debug\net6.0\Swap_two_number.pdb
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\obj\Debug\net6.0\Swap_two_number.genruntimeconfig.cache
+C:\Users\user\source\repos\Swap_two_number\Swap_two_number\obj\Debug\net6.0\ref\Swap_two_number.dll
